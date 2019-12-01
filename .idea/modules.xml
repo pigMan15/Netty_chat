@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chat_server/chat_server.iml" filepath="$PROJECT_DIR$/chat_server/chat_server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="$PROJECT_DIR$/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
     </modules>
   </component>
 </project>

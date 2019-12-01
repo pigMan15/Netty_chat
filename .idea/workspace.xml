@@ -2,7 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e0dbc0a-d3eb-4327-8bf3-e963c3d7c7ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/Netty_Chat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/Netty_Chat.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/conf/ComponetImport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/controller/ArticleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/controller/ChatRecordController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/controller/FriendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbArticleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbChatRecordMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbChatRecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbCommentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbFriendMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbFriendMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbFriendReqMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbFriendReqMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/mapper/TbUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/ChatHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/HearBearHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/NettyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/UserChannelMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/WebSocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/netty/WebsocketInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbArticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbArticleExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbArticleExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbArticleExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbArticleExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbChatRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbChatRecordExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbChatRecordExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbChatRecordExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbChatRecordExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbCommentExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbCommentExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbCommentExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbCommentExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendReqExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendReqExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendReqExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbFriendReqExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbUserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbUserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbUserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/TbUserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/vo/FriendReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/vo/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/pojo/vo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/ArticleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/ChatRecordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/FriendService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/impl/ArticleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/impl/ChatRecordServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/impl/FriendServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/FastDFSClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/FileToMultipartFileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/OSSClientUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/QRCodeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/classes/com/itheima/hchat/utils/SpringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/chat_server/target/" />
@@ -21,48 +103,34 @@
         <entry file="file://$PROJECT_DIR$/chat_server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat_server/src/main/webapp/chat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/ChatHandler.java">
+        <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/GeneratorSqlmap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="418">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/HearBearHandler.java">
+        <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-317">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -70,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/NettyListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
+            <state relative-caret-position="228">
               <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/WebsocketInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="874">
               <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,8 +174,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/WebSocketServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="608">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,12 +183,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="95">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -225,10 +293,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="253" />
-    <option name="y" value="86" />
-    <option name="width" value="1424" />
-    <option name="height" value="804" />
+    <option name="x" value="198" />
+    <option name="y" value="148" />
+    <option name="width" value="1425" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,139 +305,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="hchat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="hchat" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="hchat" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="hchat" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chat_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chat_server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatorSqlmapCustom" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="hchat" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,6 +363,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="generatorSqlmapCustom" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="generatorSqlmapCustom" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="chat_server" />
       <extension name="coverage">
@@ -466,17 +451,19 @@
       <workItem from="1574388471695" duration="17601000" />
       <workItem from="1575228716878" duration="1609000" />
       <workItem from="1575232381261" duration="3422000" />
+      <workItem from="1575239128835" duration="347000" />
+      <workItem from="1575239480583" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55701000" />
+    <option name="totallyTimeSpent" value="56292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="203" y="69" width="1139" height="643" extended-state="0" />
+    <frame x="159" y="119" width="1140" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2839963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2892791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -486,13 +473,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40861812" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40861812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32617188" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32738096" />
@@ -557,13 +544,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/pojo/TbUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="25" selection-start-line="5" selection-start-column="2" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/utils/IdWorker.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -826,20 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/GeneratorSqlmap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat_server/src/main/resources/com/itheima/hchat/mapper/TbArticleMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -929,19 +895,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/ChatHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="1064">
+          <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/HearBearHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="209">
           <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -949,10 +915,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/WebsocketInitializer.java">
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/GeneratorSqlmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/NettyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -969,35 +957,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/NettyListener.java">
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/WebsocketInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/ChatHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="72" column="72" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="72" />
+        <state relative-caret-position="874">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1006,8 +969,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chat_server/src/main/java/com/itheima/hchat/netty/WebSocketServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="608">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1018,9 +981,33 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="95">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generatorSqlmapCustom/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_server/src/main/webapp/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
         </state>
       </provider>
     </entry>
