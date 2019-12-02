@@ -45,10 +45,10 @@
 
 ## 展示
 
-![](https://pigman1533.club/usr/uploads/2019/12/3122061926.jpg)
-![](https://pigman1533.club/usr/uploads/2019/12/1181087857.jpg)
+![](https://github.com/pigMan15/Netty_chat/master/result/拼接01.jpg)
 
+![](https://github.com/pigMan15/Netty_chat/master/result/拼接02.jpg)
 
 
 ## 体验版下载
-
++ https://pigman1533.club/netty_chat.apk
