@@ -1,7 +1,7 @@
 
 window.config = {
 	// 服务器地址
-	SERVER_URL: 'http://yourId:9000',
+	SERVER_URL: 'http://yourIp:9000',
 	// NETTY地址
 	WS_URL: 'ws://yourIp:9001/ws',
 	// 默认小头像路径名
